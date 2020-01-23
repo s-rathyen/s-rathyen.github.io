@@ -5,11 +5,9 @@ image: images/project1.png
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-02-12
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - java
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 projecturl: https://www.youtube.com/watch?v=4zL6GimDfE4
 ---
