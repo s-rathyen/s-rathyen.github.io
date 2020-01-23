@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/project1.png
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -11,6 +11,7 @@ labels:
   - Arduino
   - C++
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+projecturl: https://www.youtube.com/watch?v=4zL6GimDfE4
 ---
 
 <div class="ui small rounded images">
