@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning Javascript
+title: Diary of an Unathletic JavaScript Newbie
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
