@@ -6,7 +6,7 @@
     "email": "srathyen@hawaii.edu",
     "phone": "",
     "website": "https://s-rathyen.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -66,7 +66,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub"
+        "GitHub"
       ]
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "company": "The Cheesecake Factory",
-      "position": "Server",
+      "position": "Server/Host",
       "website": "",
       "startDate": "2017-10-01",
       "endDate": "2019-10-01",
@@ -110,15 +110,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
@@ -129,9 +129,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, Russian Club, 2019-Present",
+        "Member, Russian Conversation Table, 2019-Present",
       ]
     }
   ],
