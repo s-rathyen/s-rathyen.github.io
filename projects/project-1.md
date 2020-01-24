@@ -8,7 +8,8 @@ permalink: projects/witchhunt
 date: 2018-02-12
 labels:
   - java
-summary: My first Java game.
+  - ics 111
+summary: My first Java game, an ingredient-collecting adventure.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/project1b.png">
