@@ -11,7 +11,7 @@ labels:
 summary: My first Java game.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/project1b.png">
 
 Witch Hunt! was my first foray into game development in Java. I made this game for my ICS 111 class, which was my first programming course. I thoroughly enjoyed that course (which I took as an elective in my engineering pathway), and it inspired me to change my major and pursue software development as a Computer Science student.
 
