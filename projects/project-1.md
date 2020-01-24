@@ -11,7 +11,7 @@ labels:
 summary: My first Java game.
 ---
 
-Witch Hunt! was my first foray into game development in Java. I made this game for my ICS 111 class, which was my first programming course. I thoroughly enjoyed that course (which I took as an elective in my engineering pathway), and it actually inspired me to change my major and pursue software development as a Computer Science stuedent. 
+Witch Hunt! was my first foray into game development in Java. I made this game for my ICS 111 class, which was my first programming course. I thoroughly enjoyed that course (which I took as an elective in my engineering pathway), and it actually inspired me to change my major and pursue software development as a Computer Science student. 
 
 Witch Hunt! was challenging but fun to make, and made me realize how much I enjoy game development. Now that I've had a bit more experience with programming, I realize that it would be easy to implement WASD or arrow game controls that would make the game much less tedious to play.
 
