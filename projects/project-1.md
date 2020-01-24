@@ -17,5 +17,5 @@ Witch Hunt! was challenging but fun to make, and made me realize how much I enjo
 
 Additionally, I've always had a passion for web design and web art, so I created the pixel graphics (witch, mouse, tombstones, cauldron) myself in photoshop with a tablet, and created the background image there as well. These things made it more time intensive than the project was probably intended to be for a programming class, but it was fun to see the result come together.
 
-Source: <a href="https://www.youtube.com/watch?v=4zL6GimDfE4"><i class="large github icon"></i>view on youtube</a>
+<a href="https://www.youtube.com/watch?v=4zL6GimDfE4"><i class="large github icon"></i>View the Witch Hunt! Demo on Youtube</a>
 
