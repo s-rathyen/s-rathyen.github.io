@@ -11,13 +11,11 @@ labels:
 summary: My first Java game.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Witch Hunt! was my first foray into game development in Java. I made this game for my ICS 111 class, which was my first programming course. I thoroughly enjoyed that course (which I took as an elective in my engineering pathway), and it actually inspired me to change my major and pursue software development as a Computer Science stuedent. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Witch Hunt! was challenging but fun to make, and made me realize how much I enjoy game development. Now that I've had a bit more experience with programming, I realize that it would be easy to implement WASD or arrow game controls that would make the game much less tedious to play.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Additionally, I've always had a passion for web design and web art, so I created the pixel graphics (witch, mouse, tombstones, cauldron) myself in photoshop with a tablet, and created the background image there as well. These things made it more time intensive than the project was probably intended to be for a programming class, but it was fun to see the result come together.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
-https://www.youtube.com/watch?v=4zL6GimDfE4
+Source: <a href="https://www.youtube.com/watch?v=4zL6GimDfE4"><i class="large github icon"></i>view on youtube</a>
+
