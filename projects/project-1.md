@@ -19,3 +19,4 @@ Additionally, I've always had a passion for web design and web art, so I created
 
 <a href="https://www.youtube.com/watch?v=4zL6GimDfE4"><i class="large github icon"></i>View the Witch Hunt! Demo on Youtube</a>
 
+<a href="https://github.com/s-rathyen/witch-hunt"><i class="large github icon"></i>View the Witch Hunt! Repository</a>
