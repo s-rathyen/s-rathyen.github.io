@@ -8,7 +8,8 @@ permalink: projects/sidhes-labyrinth
 date: 2018-03-23
 labels:
   - java
-summary: A quest to defeat mythical monsters.
+  - ics 111
+summary: My second Java game, a quest to defeat mythical monsters.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/project2b.png">
