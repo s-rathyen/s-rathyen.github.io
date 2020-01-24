@@ -24,5 +24,5 @@ I learned a lot from this project. Most valuable to me was the experience of wor
 
 <a href="https://www.youtube.com/watch?v=UZcx7qcs3dQ&t=2s"><i class="large github icon"></i>View the Vesuvius Demo on Youtube</a>
 
-<a href="https://github.com/s-rathyen/sidhes-labyrinth"><i class="large github icon"></i>View the Vesuvius Repository</a>
+<a href="https://github.com/s-rathyen/vesuvius"><i class="large github icon"></i>View the Vesuvius Repository</a>
 
