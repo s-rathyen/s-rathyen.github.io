@@ -12,7 +12,7 @@ labels:
 summary: My third Java game, a journey to escape a volcano.
 ---
 
-
+<img class="ui medium right floated rounded image" src="../images/project3b.png">
 
 <a href="https://www.youtube.com/watch?v=UZcx7qcs3dQ&t=2s"><i class="large github icon"></i>View the Vesuvius Demo on Youtube</a>
 
