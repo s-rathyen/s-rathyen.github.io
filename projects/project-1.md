@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project1.png
 title: Witch Hunt! Game
-permalink: projects/witchhunt
+permalink: projects/witch-hunt
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-12
 labels:
