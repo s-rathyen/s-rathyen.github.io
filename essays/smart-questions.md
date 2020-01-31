@@ -23,6 +23,8 @@ Let's start off the journey through honing our smart question meter by looking a
 <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
   I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature.
+</blockquote>
+
 ```
  <li class="dropdown"><a href="#" class="dropbtn">Dropdown</a>
                     <div class="dropdown-content">
@@ -32,7 +34,6 @@ Let's start off the journey through honing our smart question meter by looking a
                     </div>
             </li>
  ```
-</blockquote>
 
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
