@@ -18,7 +18,22 @@ According to Eric Raymond's "How to ask questions the smart way," some of the qu
 If you've successfully completed all these steps, you can go ahead and ask your question. You should be explicit in asking questions, and make sure it's not just your question that is clear and smart, but if you're posting a question on a forum, your heading should be equally clear and informative to attract the most attention you can. If you've done enough leg work, people will be more likely to answer your question.
 
 
-## What About a Not-So-Smart Question?
+## Learn By (Anti) Example
+Let's start off the journey through honing our smart question meter by looking at a not-so-smart question. I've found this anti example on Stack Overflow:
+<b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
+<blockquote>
+  I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature.
+```
+ <li class="dropdown"><a href="#" class="dropbtn">Dropdown</a>
+                    <div class="dropdown-content">
+                       <a href="#">Houses</a>
+                       <a href="#">Catles</a>
+                       <a href="#">Studios</a>
+                    </div>
+            </li>
+ ```
+</blockquote>
+
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
 
