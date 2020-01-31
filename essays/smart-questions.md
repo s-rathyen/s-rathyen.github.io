@@ -98,7 +98,7 @@ nav ul {
 }
 ```
 (All code above was abbreviated for length.)
-<img class="ui medium right floated image" src="../images/congratulations-you-figured.jpg">
+
 Clearly, the title could use some work to draw people in, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question to Mr. X. Let's look at what he does right:
 * Mr. Y clearly states his problem with sufficient detail for a response.
 * Mr. Y's problem is a specific, precise one, unlike Mr. X's problem, which is open ended. Unlike Mr. Y, Mr. X provided none of his own code for troubleshooting, making it difficult and/or tedious to answer.
@@ -106,6 +106,7 @@ Clearly, the title could use some work to draw people in, but the rest of this p
 * Mr. Y documents what he did to try to resolve the issue, "as far as (he) knows." This is key to showing that he has done his part in troubleshooting the problem. It shows in a respectful way that he is not asking more of others than he did of himself.
 
 ### Benefits
+<img class="ui medium right floated image" src="../images/congratulations-you-figured.jpg">
 The responses to Mr. Y's question show that it is indeed a smart question. He receives a detailed response including a workaround. In fact, he receives multiple responses, each which provide him with a possible solution.
 
 Perhaps the most important observation about Mr. Y's post is that his question has been viewed 17,000 times. The "smartness" of his question is self-evident: not only did it attract smart answers, but it provides a lasting source of information for anyone who might encounter the same issue at some point in time. This question will be accessible to people in need who have the wherewithal to do a Google search. If only Mr. X were one of them.
