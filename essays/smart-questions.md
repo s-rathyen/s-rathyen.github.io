@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Asking Smart Questions (For Dummies!)
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-01-30
 labels:
 ---
 ## Why Ask Questions the Smart Way?
