@@ -5,6 +5,8 @@ title: Asking Smart Questions (For Dummies!)
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
+  - questions
+  - life
 ---
 ## Why Ask Questions the Smart Way?
 <img class="ui small right floated image" src="../images/question.jpeg">
