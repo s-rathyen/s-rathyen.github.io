@@ -112,3 +112,6 @@ Clearly, the title could use some work to draw people in, but the rest of this p
 The responses to Mr. Y's question show that it is indeed a smart question. He receives a detailed response including a workaround. In fact, he receives multiple responses, each which provide him with a possible solution.
 
 Perhaps the most important observation about Mr. Y's post is that his question has been viewed 17,000 times. The "smartness" of his question is self-evident: not only did it attract smart answers, but it provides a lasting source of information for anyone who might encounter the same issue at some point in time. This question will be accessible to people in need who have the wherewithal to do a Google search. If only Mr. X were one of them.
+
+<a href="https://stackoverflow.com/questions/59996722/how-to-add-transition-duration-to-a-dropdown-css-menu">View Mr. X's question</a>
+<a href="https://stackoverflow.com/questions/24614200/css-dropdown-menu-transition">View Mr. Y's question</a>
