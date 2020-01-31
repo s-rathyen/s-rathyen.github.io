@@ -18,9 +18,9 @@ According to Eric Raymond's "How to ask questions the smart way," some of the qu
 If you've successfully completed all these steps, you can go ahead and ask your question. You should be explicit in asking questions, and make sure it's not just your question that is clear and smart, but if you're posting a question on a forum, your heading should be equally clear and informative to attract the most attention you can. If you've done enough leg work, people will be more likely to answer your question.
 
 
-## Learn By (Anti) Example
+## Learn By Anti-Example
 Let's start off the journey through honing our smart question meter by looking at a not-so-smart question. I've found this anti example on Stack Overflow:
-<b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
+#### <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
   I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature.
 </blockquote>
@@ -49,7 +49,7 @@ What does Mr. X stand to lose here? Well, firstly, he is losing an opportunity t
 ## Learn By Example
 This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by searching for Mr. X's "not smart" one.
 
-<b>Title:</b> CSS dropdown menu transition
+#### <b>Title:</b> CSS dropdown menu transition
 <blockquote>
   I am trying to add dropdown transition for the menu I am working on, but it seems that I have no idea what I am doing wrong. The menu itself appears instantly, ignorning the transition effect.
 
