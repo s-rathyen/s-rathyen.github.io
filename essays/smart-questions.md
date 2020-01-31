@@ -7,9 +7,11 @@ date: 2020-01-23
 labels:
 ---
 ## Why Ask Questions the Smart Way?
+---
 Although in many spheres of academia you might hear the maxim, "There are no stupid questions here!", that certainly doesn't apply in  Programming Forums online. And it's quite clear why: although you may get away with posing a "not smart" question to your professor, who is paid to answer questions (including the not-so-smart ones), you surely won't get away with posting a "not smart" question online and expecting an answer from people who are donating their time to help others.
 
 ## How Can I Ask Smart Questions?
+---
 ### Ground Rules
 According to Eric Raymond's "How to ask questions the smart way," some of the qualifications of a smart question include: 
 * Aim your question to the right audience. Don't, for example, post a programming question on a vacuum repair forum.
@@ -19,6 +21,7 @@ If you've successfully completed all these steps, you can go ahead and ask your 
 
 
 ## Learn By Anti-Example
+---
 Let's start off the journey through honing our smart question meter by looking at a not-so-smart question. I've found this anti example on Stack Overflow:
 #### <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
@@ -47,6 +50,7 @@ Mr. X's question is still new, so we can't accurately say that the lack of respo
 What does Mr. X stand to lose here? Well, firstly, he is losing an opportunity to exercise his problem-solving skills. He could utilize the tools available to him (namely, google, and the Stack Overflow search bar) to answer his seemingly simple question, or he could elaborate on his sparse question and take advantage of the many talented programmers that Stack Overflow has to offer, because these talented programmers don't want to waste their free time on an ill-conceived question which Google could easily answer. 
 
 ## Learn By Example
+---
 This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by searching for Mr. X's "not smart" one.
 
 #### <b>Title:</b> CSS dropdown menu transition
