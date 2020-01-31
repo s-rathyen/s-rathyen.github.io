@@ -45,7 +45,7 @@ Let's analyze this question using the Ground Rules as specified by Raymond in th
 * It seems that Mr. X didn't do a lot of research, because within one minute of searching Google for "transition duration css dropdown," I found numerous tutorials detailing the specifics of creating a css dropdown with a certain transition duration. What takes the cake, though, is the fact that I found a very similar question on Stack Overflow (which you'll see in the next section) that asks Mr. X's question in a much smarter way, providing much greater detail, and which has multiple answers.
 * To add insult to injury, this question is neither specific nor explicit. Mr. X provides his HTML but not his CSS, although he's asking a question about CSS. This is insulting to anyone who might stumble upon this question -- it makes one wonder if he even tried to write any of the CSS himself or is expecting it to be handed to him. 
 
-It is clear that Mr. X should anticipate either a nasty answer (STFW, anyone?) or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting the header of his post into Google (which would probably give him his answer much faster than it took him to compose the post).
+Unfortunately, Mr. X might be in the market for a snarky answer or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting the header of his post into Google (which would probably give him his answer much faster than it took him to compose the post).
 
 ### Repercussions
 Mr. X's question is still new, so we can't accurately say that the lack of responses reflect the "not-so-smart" nature of his question, but we might try to infer it.
@@ -55,7 +55,7 @@ What does Mr. X stand to lose here? Firstly, he losing an opportunity to exercis
 ---
 
 ## Learn By Example
-This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by pasting the heading of Mr. X's "not-so-smart" one.
+This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by pasting the heading of Mr. X's "not-so-smart" one into Google.
 
 #### <b>Title:</b> CSS dropdown menu transition
 <blockquote>
@@ -95,13 +95,13 @@ nav ul {
 ```
 (All code above was abbreviated for length.)
 
-Clearly, the title can use some work to draw people in, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question to Mr. X. Let's look at what he does right:
+Clearly, the title could use some work to draw people in, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question to Mr. X. Let's look at what he does right:
 * Mr. Y clearly states his problem with sufficient detail for a response.
-* Mr. Y's problem is a specific, precise one, unlike Mr. X's problem, which was open ended. Unlike Mr. Y, Mr. X provided none of his own code for troubleshooting, making it difficult to troubleshoot or understand exactly what he was asking.
+* Mr. Y's problem is a specific, precise one, unlike Mr. X's problem, which is open ended. Unlike Mr. Y, Mr. X provided none of his own code for troubleshooting, making it difficult and/or tedious to answer.
 * Mr. Y provides ALL of his code (HTML and CSS) Anyone who wants to answer the question has enough peripheral information to get the full picture of what he is trying to accomplish. While Raymond says that posting large chunks of code is not always the best method, if it can provide others more insight to help you, post the necessary information.
-* Mr. Y documents what he did to try to resolve the issue. He says, "As far as I know I should...". This is key to showing that he has tried his best to troubleshoot the problem. Mr. Y has clearly worked on his problem and presented it clearly and explicitly.
+* Mr. Y documents what he did to try to resolve the issue, "as far as (he) knows." This is key to showing that he has done his part in troubleshooting the problem. It shows in a respectful way that he is not asking more of others than he did of himself.
 
 ### Benefits
 The responses to Mr. Y's question show that it is indeed a smart question. He receives a detailed response including a workaround. In fact, he receives multiple responses, each which provide him with a possible solution.
 
-Perhaps the most important observation about Mr. Y's post is that his question has been viewed 17,000 times. It's smart not just in that it attracted smart answers, but also that it will be help for future people with the same question. (If only Mr. X were one of them.)
+Perhaps the most important observation about Mr. Y's post is that his question has been viewed 17,000 times. The "smartness" of his question is self-evident: not only did it attract smart answers, but it provides a lasting source of information for anyone who might encounter the same issue at some point in time. This question will be accessible to people in need who have the wherewithal to do a Google search. If only Mr. X were one of them.
