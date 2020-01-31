@@ -31,7 +31,7 @@ Let's start off by honing our smart question radar by first looking at a "not-so
 
 #### <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
-  I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature.
+  "I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature."
 </blockquote>
 
 ```
@@ -64,9 +64,9 @@ This time, let's look at an elevated version of Mr. X's question. Below is anoth
 
 #### <b>Title:</b> CSS dropdown menu transition
 <blockquote>
-  I am trying to add dropdown transition for the menu I am working on, but it seems that I have no idea what I am doing wrong. The menu itself appears instantly, ignorning the transition effect.
+  "I am trying to add dropdown transition for the menu I am working on, but it seems that I have no idea what I am doing wrong. The menu itself appears instantly, ignorning the transition effect.
 
-CSS code I use for transition:
+CSS code I use for transition:"
 </blockquote>
 ```
 -webkit-transition: height 0.3s ease-in;
@@ -74,9 +74,9 @@ CSS code I use for transition:
 ...
 ```
 <blockquote>
-  As far as I know I should add it to the nav ul ul CSS block, and adding opacity:1 to nav ul li:hover > ul but it does not work.
+  "As far as I know I should add it to the nav ul ul CSS block, and adding opacity:1 to nav ul li:hover > ul but it does not work.
 
-And here's whole code of the menu.
+And here's whole code of the menu."
 
 HTML
 </blockquote>
@@ -90,7 +90,7 @@ HTML
 </nav>
 ```
 <blockquote>
-  And the CSS I am using
+  "And the CSS I am using"
 </blockquote>
 ```
 nav ul {
