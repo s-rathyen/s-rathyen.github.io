@@ -7,7 +7,7 @@ date: 2020-01-30
 labels:
 ---
 ## Why Ask Questions the Smart Way?
-<img class="ui medium right floated image" src="../images/question.jpeg">
+<img class="ui small right floated image" src="../images/question.jpeg">
 In many spheres of academia you might hear the maxim, "There are no stupid questions here!" However, that's certainly not true for programming forums like Stack Overflow. It's quite clear why: although you might (sometimes) get away with posing a "not-so-smart" question to a professor who is accustomed to answering those kind of questions, you surely won't get away with posing a "not-so-smart" question to an online forum consisting of people who donate their time to helping others.
 
 ---
@@ -24,8 +24,8 @@ If you've successfully completed all these steps, you can go ahead and ask your 
 ---
 
 ## Learn By Anti-Example
-<img class="ui medium left floated image" src="../images/math.jpeg">
 Let's start off by honing our smart question radar by first looking at a "not-so-smart" question. I've found this anti example on Stack Overflow:
+<img class="ui medium left floated image" src="../images/math.jpeg">
 #### <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
   I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature.
