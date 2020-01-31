@@ -7,6 +7,7 @@ date: 2020-01-30
 labels:
 ---
 ## Why Ask Questions the Smart Way?
+<img class="ui medium right floated image" src="../images/question.jpeg">
 In many spheres of academia you might hear the maxim, "There are no stupid questions here!" However, that's certainly not true for programming forums like Stack Overflow. It's quite clear why: although you might (sometimes) get away with posing a "not-so-smart" question to a professor who is accustomed to answering those kind of questions, you surely won't get away with posing a "not-so-smart" question to an online forum consisting of people who donate their time to helping others.
 
 ---
@@ -23,6 +24,7 @@ If you've successfully completed all these steps, you can go ahead and ask your 
 ---
 
 ## Learn By Anti-Example
+<img class="ui medium left floated image" src="../images/math.jpeg">
 Let's start off by honing our smart question radar by first looking at a "not-so-smart" question. I've found this anti example on Stack Overflow:
 #### <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
@@ -55,6 +57,7 @@ What does Mr. X stand to lose here? Firstly, he losing an opportunity to exercis
 ---
 
 ## Learn By Example
+<img class="ui medium right floated image" src="../images/congratulations-you-figured.jpg">
 This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by pasting the heading of Mr. X's "not-so-smart" one into Google.
 
 #### <b>Title:</b> CSS dropdown menu transition
