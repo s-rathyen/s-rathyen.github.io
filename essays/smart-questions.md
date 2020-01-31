@@ -35,17 +35,19 @@ Let's start off the journey through honing our smart question meter by looking a
             </li>
  ```
 Let's analyze this question using the Ground Rules as specified by Raymond in the prior section. We will address the person who posted this question as Mr. X, for simplicity's sake. 
-Firstly, the question is aimed to the right audience. We're on Stack Overflow, so at least Mr. X got that right. 
-However, the rest goes downhill from there. It seems that Mr. X didn't do a lot of research, because within one minute of searching Google for "transition duration css dropdown," I found numerous tutorials detailing the specifics of creating a css dropdown with a certain transition duration. What takes the cake, though, is the fact that I found a very similar question on Stack Overflow (which you'll see in the next section) that asks Mr. X's question in a much smarter way, providing much greater detail, and which has multiple answers.
-To add insult to injury, this question is not specific or explicit. Mr. X does not provide his CSS, although he's asking a question about CSS. This is insulting to anyone who might stumble upon this question -- it makes one wonder if he even tried to write any of the CSS himself or is expecting it to be handed to him. 
-It is clear that Mr. X should anticipate either a nasty answer (STFW, anyone?) or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting his own header of his post into Google (which would give him his answer in much quicker time than it probably took him to compose that post).
+* The question is aimed to the right audience. We're on Stack Overflow, so at least Mr. X got that right. Unfortunately, the rest goes downhill from here.
+* It seems that Mr. X didn't do a lot of research, because within one minute of searching Google for "transition duration css dropdown," I found numerous tutorials detailing the specifics of creating a css dropdown with a certain transition duration. What takes the cake, though, is the fact that I found a very similar question on Stack Overflow (which you'll see in the next section) that asks Mr. X's question in a much smarter way, providing much greater detail, and which has multiple answers.
+* To add insult to injury, this question is neither specific nor explicit. Mr. X provides his HTML but not his CSS, although he's asking a question about CSS. This is insulting to anyone who might stumble upon this question -- it makes one wonder if he even tried to write any of the CSS himself or is expecting it to be handed to him. 
+
+It is clear that Mr. X should anticipate either a nasty answer (STFW, anyone?) or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting his own header of his post into Google (which would give him his answer in much quicker time than it probably took him to compose his Stack Overflow post).
+
 ### Repercussions
 Mr. X's question is still new, so we can't accurately say that the lack of responses lack the "not smart" nature of his question, but we might try to infer it.
 
-What does Mr. X stand to lose here? Well, firstly, he is losing an opportunity to exercise his problem-solving skills. He could utilize the tools available to him to answer his seemingly simple question, or he could elaborate and take advantage of the many talented programmers that Stack Overflow has to offer. But these talented programmers don't want to waste their free time on an ill-conceived question which Google could easily answer. 
+What does Mr. X stand to lose here? Well, firstly, he is losing an opportunity to exercise his problem-solving skills. He could utilize the tools available to him (namely, google, and the Stack Overflow search bar) to answer his seemingly simple question, or he could elaborate on his sparse question and take advantage of the many talented programmers that Stack Overflow has to offer, because these talented programmers don't want to waste their free time on an ill-conceived question which Google could easily answer. 
 
 ## Learn By Example
-This time, let's look at an elevated version of Mr. X's question. Here's another question that I found by searching for Mr. X's own question on Google.
+This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by searching for Mr. X's "not smart" one.
 
 <b>Title:</b> CSS dropdown menu transition
 <blockquote>
