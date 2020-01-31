@@ -76,9 +76,9 @@ CSS code I use for transition:"
 <blockquote>
   "As far as I know I should add it to the nav ul ul CSS block, and adding opacity:1 to nav ul li:hover > ul but it does not work.
 
-And here's whole code of the menu."
+And here's whole code of the menu.
 
-HTML
+HTML:"
 </blockquote>
 ```html
 <nav>
