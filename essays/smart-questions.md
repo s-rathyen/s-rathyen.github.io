@@ -47,8 +47,7 @@ Let's analyze this question using the Ground Rules as specified by Raymond in th
 * It seems that Mr. X didn't do a lot of research, because within one minute of searching Google for "transition duration css dropdown," I found numerous tutorials detailing the specifics of creating a css dropdown with a certain transition duration. What takes the cake, though, is the fact that I found a very similar question on Stack Overflow (which you'll see in the next section) that asks Mr. X's question in a much smarter way, providing much greater detail, and which has multiple answers.
 * To add insult to injury, this question is neither specific nor explicit. Mr. X provides his HTML but not his CSS, although he's asking a question about CSS. This is insulting to anyone who might stumble upon this question -- it makes one wonder if he even tried to write any of the CSS himself or is expecting it to be handed to him. 
 
-<img class="ui medium left floated image" src="../images/math.jpeg">
-Unfortunately, Mr. X might be in the market for a snarky answer or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting the header of his post into Google (which would probably give him his answer much faster than it took him to compose the post).
+Unfortunately, Mr. X might be in for a snarky answer or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting the header of his post into Google (which would probably give him his answer much faster than it took him to compose the post).
 
 ### Repercussions
 Mr. X's question is still new, so we can't accurately say that the lack of responses reflect the "not-so-smart" nature of his question, but we might try to infer it.
