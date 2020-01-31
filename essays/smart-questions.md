@@ -7,6 +7,7 @@ date: 2020-01-30
 labels:
   - questions
   - life
+  - etiquette
 ---
 ## Why Ask Questions the Smart Way?
 <img class="ui small right floated image" src="../images/question.jpeg">
