@@ -90,7 +90,8 @@ HTML
 ```
 nav ul {
     background: #efefef; 
-    background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
+    background: linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
+    ...
 }
 ```
 (All code above was abbreviated for length.)
