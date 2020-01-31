@@ -34,7 +34,7 @@ Let's start off by honing our smart question radar by first looking at a "not-so
   "I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature."
 </blockquote>
 
-```
+```html
  <li class="dropdown"><a href="#" class="dropbtn">Dropdown</a>
                     <div class="dropdown-content">
                        <a href="#">Houses</a>
@@ -68,7 +68,7 @@ This time, let's look at an elevated version of Mr. X's question. Below is anoth
 
 CSS code I use for transition:"
 </blockquote>
-```
+```css
 -webkit-transition: height 0.3s ease-in;
 -moz-transition: height 0.3s ease-in;
 ...
@@ -80,7 +80,7 @@ And here's whole code of the menu."
 
 HTML
 </blockquote>
-```
+```html
 <nav>
     <ul>
         <li><a href="http://www.www.com/">Menu 1</a></li>
@@ -92,7 +92,7 @@ HTML
 <blockquote>
   "And the CSS I am using"
 </blockquote>
-```
+```html
 nav ul {
     background: #efefef; 
     background: linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
