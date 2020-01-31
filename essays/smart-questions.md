@@ -9,6 +9,8 @@ labels:
 ## Why Ask Questions the Smart Way?
 Although in many spheres of academia you might hear the maxim, "There are no stupid questions here!", that certainly doesn't apply in  Programming Forums online. And it's quite clear why: although you may get away with posing a "not smart" question to your professor, who is paid to answer questions (including the not-so-smart ones), you surely won't get away with posting a "not smart" question online and expecting an answer from people who are donating their time to help others.
 
+---
+
 ## How Can I Ask Smart Questions?
 ### Ground Rules
 According to Eric Raymond's "How to ask questions the smart way," some of the qualifications of a smart question include: 
@@ -17,6 +19,7 @@ According to Eric Raymond's "How to ask questions the smart way," some of the qu
 * Be precise about the problem. You should provide all the details necessary, including but not limited to symptoms, the environment in which it occurs, the research you did to understand what went wrong, and the diagnostics you did to try to solve the problem.
 If you've successfully completed all these steps, you can go ahead and ask your question. You should be explicit in asking questions, and make sure it's not just your question that is clear and smart, but if you're posting a question on a forum, your heading should be equally clear and informative to attract the most attention you can. If you've done enough leg work, people will be more likely to answer your question.
 
+---
 
 ## Learn By Anti-Example
 Let's start off the journey through honing our smart question meter by looking at a not-so-smart question. I've found this anti example on Stack Overflow:
@@ -46,6 +49,8 @@ Mr. X's question is still new, so we can't accurately say that the lack of respo
 
 What does Mr. X stand to lose here? Well, firstly, he is losing an opportunity to exercise his problem-solving skills. He could utilize the tools available to him (namely, google, and the Stack Overflow search bar) to answer his seemingly simple question, or he could elaborate on his sparse question and take advantage of the many talented programmers that Stack Overflow has to offer, because these talented programmers don't want to waste their free time on an ill-conceived question which Google could easily answer. 
 
+---
+
 ## Learn By Example
 This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by searching for Mr. X's "not smart" one.
 
@@ -58,10 +63,7 @@ CSS code I use for transition:
 ```
 -webkit-transition: height 0.3s ease-in;
 -moz-transition: height 0.3s ease-in;
--o-transition: height 0.3s ease-in;
--ms-transition: height 0.3s ease-in;
-transition: height 0.3s ease-in;
-opacity:0;
+...
 ```
 <blockquote>
   As far as I know I should add it to the nav ul ul CSS block, and adding opacity:1 to nav ul li:hover > ul but it does not work.
@@ -76,15 +78,7 @@ HTML
         <li><a href="http://www.www.com/">Menu 1</a></li>
         <li><a href="http://www.www.com/">Menu 2</a></li>
         <li><a>Dropdown Here</a>
-            <ul>
-                <li><a href="http://www.www.com/">Dropdown1</a></li>
-                <li><a href="http://www.www.com/">Dropdown2</a></li>
-                <li><a href="http://www.www.com/">Dropdown3</a></li>
-            </ul>
-        </li>
-        <li><a href="http://www.www.com/">Menu 4</a></li>
-        <li><a href="http://www.www.com/">Menu 5</a></li>
-    </ul>
+        ...
 </nav>
 ```
 <blockquote>
@@ -94,20 +88,9 @@ HTML
 nav ul {
     background: #efefef; 
     background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
-    background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
-    background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
-    box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
-    padding: 0 25px;
-    border-radius: 10px;  
-    list-style: none;
-    position: relative;
-    display: inline-table;
-    float:right;
-    z-index:9999;
-
 }
 ```
-(Abbreviated for length.)
+(All code above was abbreviated for length.)
 
 We see that the title can use some work, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question. Let's look at what he does right:
 * Mr. Y clearly states his problem with sufficient detail for a response.
