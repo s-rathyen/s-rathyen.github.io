@@ -57,7 +57,6 @@ What does Mr. X stand to lose here? Firstly, he losing an opportunity to exercis
 ---
 
 ## Learn By Example
-<img class="ui medium right floated image" src="../images/congratulations-you-figured.jpg">
 This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by pasting the heading of Mr. X's "not-so-smart" one into Google.
 
 #### <b>Title:</b> CSS dropdown menu transition
@@ -98,7 +97,7 @@ nav ul {
 }
 ```
 (All code above was abbreviated for length.)
-
+<img class="ui medium right floated image" src="../images/congratulations-you-figured.jpg">
 Clearly, the title could use some work to draw people in, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question to Mr. X. Let's look at what he does right:
 * Mr. Y clearly states his problem with sufficient detail for a response.
 * Mr. Y's problem is a specific, precise one, unlike Mr. X's problem, which is open ended. Unlike Mr. Y, Mr. X provided none of his own code for troubleshooting, making it difficult and/or tedious to answer.
