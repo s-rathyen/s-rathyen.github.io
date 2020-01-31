@@ -7,7 +7,7 @@ date: 2020-01-23
 labels:
 ---
 ## Why Ask Questions the Smart Way?
-Although in many spheres of academia you might hear the maxim, "There are no stupid questions here!", that certainly doesn't apply in  Programming Forums online. And it's quite clear why: although you may get away with posing a "not smart" question to your professor, who is paid to answer questions (including the not-so-smart ones), you surely won't get away with posting a "not smart" question online and expecting an answer from people who are donating their time to help others.
+In many spheres of academia you might hear the maxim, "There are no stupid questions here!" However, that's certainly not true for programming forums like Stack Overflow. It's quite clear why: although you might (sometimes) get away with posing a "not-so-smart" question to a professor who is accustomed to answering those kind of questions, you surely won't get away with posing a "not-so-smart" question to an online forum consisting of people who donate their time to helping others.
 
 ---
 
@@ -15,14 +15,15 @@ Although in many spheres of academia you might hear the maxim, "There are no stu
 ### Ground Rules
 According to Eric Raymond's "How to ask questions the smart way," some of the qualifications of a smart question include: 
 * Aim your question to the right audience. Don't, for example, post a programming question on a vacuum repair forum.
-* Don't insult and waste people's time by not doing your research. To avoid the notorious RTFM (Read the Manual) and STFW (Search the Web) answers, make sure you go through those preliminary measures -- and maybe you'll be able to solve the issue yourself along the way.
-* Be precise about the problem. You should provide all the details necessary, including but not limited to symptoms, the environment in which it occurs, the research you did to understand what went wrong, and the diagnostics you did to try to solve the problem.
-If you've successfully completed all these steps, you can go ahead and ask your question. You should be explicit in asking questions, and make sure it's not just your question that is clear and smart, but if you're posting a question on a forum, your heading should be equally clear and informative to attract the most attention you can. If you've done enough leg work, people will be more likely to answer your question.
+* Don't waste people's time. Do your research. To avoid the notorious RTFM (Read the Manual) and STFW (Search the Web) answers, make sure you go ahead and read the manual, or search the web, whichever applies to you. You might even find that you'll solve the problem on your own in the process.
+* Be precise about your problem. You should provide all the details necessary, including but not limited to symptoms, the environment in which the problem occurs, the research you did to understand what went wrong, and the steps you took to try and solve the problem.
+
+If you've successfully completed all these steps, you can go ahead and ask your smart question. When dealing with online forums, the heading for your question should be equally smart and informative. You want to grab the attention of those code-wizards who might be lurking. If you've done enough leg work, people will be more likely to answer your question.
 
 ---
 
 ## Learn By Anti-Example
-Let's start off the journey through honing our smart question meter by looking at a not-so-smart question. I've found this anti example on Stack Overflow:
+Let's start off by honing our smart question radar by first looking at a "not-so-smart" question. I've found this anti example on Stack Overflow:
 #### <b>Title:</b> How To Add Transition Duration To A Dropdown Css Menu?
 <blockquote>
   I just wanted to know if it is possible to add a transition duration to a dropdown menu. I have been looking for an answer online for a while but all I could find is some bootstrap and javascript codes in order to execute this feature.
@@ -37,22 +38,24 @@ Let's start off the journey through honing our smart question meter by looking a
                     </div>
             </li>
  ```
+You may be wondering, "What's the issue?" A question is a question, right? Well, the utility of a question to the person who asks it (and anyone who may have the same question) depends on its likeliness to get answered. And the smarter the question, the more likely it will receive an answer.
+
 Let's analyze this question using the Ground Rules as specified by Raymond in the prior section. We will address the person who posted this question as Mr. X, for simplicity's sake. 
 * The question is aimed to the right audience. We're on Stack Overflow, so at least Mr. X got that right. Unfortunately, the rest goes downhill from here.
 * It seems that Mr. X didn't do a lot of research, because within one minute of searching Google for "transition duration css dropdown," I found numerous tutorials detailing the specifics of creating a css dropdown with a certain transition duration. What takes the cake, though, is the fact that I found a very similar question on Stack Overflow (which you'll see in the next section) that asks Mr. X's question in a much smarter way, providing much greater detail, and which has multiple answers.
 * To add insult to injury, this question is neither specific nor explicit. Mr. X provides his HTML but not his CSS, although he's asking a question about CSS. This is insulting to anyone who might stumble upon this question -- it makes one wonder if he even tried to write any of the CSS himself or is expecting it to be handed to him. 
 
-It is clear that Mr. X should anticipate either a nasty answer (STFW, anyone?) or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting his own header of his post into Google (which would give him his answer in much quicker time than it probably took him to compose his Stack Overflow post).
+It is clear that Mr. X should anticipate either a nasty answer (STFW, anyone?) or none at all. Perhaps he'd benefit from reading Raymond's article, or maybe just copying and pasting the header of his post into Google (which would probably give him his answer much faster than it took him to compose the post).
 
 ### Repercussions
-Mr. X's question is still new, so we can't accurately say that the lack of responses lack the "not smart" nature of his question, but we might try to infer it.
+Mr. X's question is still new, so we can't accurately say that the lack of responses reflect the "not-so-smart" nature of his question, but we might try to infer it.
 
-What does Mr. X stand to lose here? Well, firstly, he is losing an opportunity to exercise his problem-solving skills. He could utilize the tools available to him (namely, google, and the Stack Overflow search bar) to answer his seemingly simple question, or he could elaborate on his sparse question and take advantage of the many talented programmers that Stack Overflow has to offer, because these talented programmers don't want to waste their free time on an ill-conceived question which Google could easily answer. 
+What does Mr. X stand to lose here? Firstly, he losing an opportunity to exercise his problem-solving skills. He could utilize the tools available to him (namely, Google and the Stack Overflow search bar) to answer his question, or he could elaborate on his sparse question and take advantage of the many talented programmers that Stack Overflow has to offer.
 
 ---
 
 ## Learn By Example
-This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by searching for Mr. X's "not smart" one.
+This time, let's look at an elevated version of Mr. X's question. Below is another question posted on Stack Overflow. Ironically, I found this smart question by pasting the heading of Mr. X's "not-so-smart" one.
 
 #### <b>Title:</b> CSS dropdown menu transition
 <blockquote>
@@ -92,13 +95,13 @@ nav ul {
 ```
 (All code above was abbreviated for length.)
 
-We see that the title can use some work, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question. Let's look at what he does right:
+Clearly, the title can use some work to draw people in, but the rest of this post will demonstrate why this person, who we will designate Mr. Y, has asked a superior question to Mr. X. Let's look at what he does right:
 * Mr. Y clearly states his problem with sufficient detail for a response.
-* Mr. Y's problem a specific, precise one, unlike Mr. X's problem, which was open ended and provided none of his own code for troubleshooting.
-* Mr. Y provides all of his code. Anyone who wants to answer the question has enough peripheral information to get the full picture of what he is trying to accomplish.
-* Mr. Y documents what he did to try to resolve the issue. He says, "As far as I know I should...". This is key to showing that he has tried his best to troubleshoot the problem. Unlike Mr. X's problem, which seems like a slap in the face for a qualified person to answer because it requires next to no work to find the solution, Mr. Y has clearly worked on his problem and presented it clearly and explicitly.
+* Mr. Y's problem is a specific, precise one, unlike Mr. X's problem, which was open ended. Unlike Mr. Y, Mr. X provided none of his own code for troubleshooting, making it difficult to troubleshoot or understand exactly what he was asking.
+* Mr. Y provides ALL of his code (HTML and CSS) Anyone who wants to answer the question has enough peripheral information to get the full picture of what he is trying to accomplish. While Raymond says that posting large chunks of code is not always the best method, if it can provide others more insight to help you, post the necessary information.
+* Mr. Y documents what he did to try to resolve the issue. He says, "As far as I know I should...". This is key to showing that he has tried his best to troubleshoot the problem. Mr. Y has clearly worked on his problem and presented it clearly and explicitly.
 
 ### Benefits
 The responses to Mr. Y's question show that it is indeed a smart question. He receives a detailed response including a workaround. In fact, he receives multiple responses, each which provide him with a possible solution.
 
-Additionally, his question has been viewed 17,000 times. It's smart not just in that it attracted smart answers, but also that it will be help for future people with the same question. If only Mr. X were one of them.
+Perhaps the most important observation about Mr. Y's post is that his question has been viewed 17,000 times. It's smart not just in that it attracted smart answers, but also that it will be help for future people with the same question. (If only Mr. X were one of them.)
