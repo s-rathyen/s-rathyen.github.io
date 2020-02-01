@@ -8,6 +8,7 @@ labels:
   - javascript
 ---
 ## My Experience as a JS Newbie
+<img class="ui medium right floated image" src="../images/athlete.png">
 I'm a complete newbie to Javascript. I'm also a bit rusty because I haven't used a proper programming language for at least a semester since I devoted most of my energy to an algorithms course last semester. Luckily, JS is intuitive enough that you can get through all the basics in less than ten hours. I think this is thanks to the fact that it shares a lot of common elements with the basics of other common programming languages (I know Java, C, and C++).
 
 From a software engineering perspective, I would say that JS has its pros and cons (as with any other language), but is overwhelmingly a "good" language. For example, I enjoy the fact that Javascript doesn't use return types, which makes it much more flexible. On the other side of the coin, more flexibility might lead to more mistakes. I can see JS being "good" for a careful software engineer and "bad" for a hasty one. 
@@ -16,7 +17,7 @@ I was also fascinated by all the function shortcuts, which I'd seen no equivalen
 
 ## Does Athletic Software Engineering Work for an Unathletic Software Engineer?
 ### What is ASE?
-<img class="ui small right floated image" src="../images/athlete.png">
+<img class="ui medium left floated image" src="../images/athlete2.png">
 The concept is to exercise our thinking by revisiting the content multiple times as a way to "train" for the assessment. Repeated exposure over the course of a few days to a week keeps our brain fresh and helps us learn more easily. From what I've seen of ICS 314 so far, the "athletic software engineering" technique employed is a very effective strategy. 
 
 ### My Experience with ASE: First Two Weeks
