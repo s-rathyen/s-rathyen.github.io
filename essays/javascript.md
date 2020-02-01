@@ -16,6 +16,7 @@ I was also fascinated by all the function shortcuts, which I'd seen no equivalen
 
 ## Does Athletic Software Engineering Work for an Unathletic Software Engineer?
 ### What is ASE?
+<img class="ui small right floated image" src="../images/athlete.png">
 The concept is to exercise our thinking by revisiting the content multiple times as a way to "train" for the assessment. Repeated exposure over the course of a few days to a week keeps our brain fresh and helps us learn more easily. From what I've seen of ICS 314 so far, the "athletic software engineering" technique employed is a very effective strategy. 
 
 ### My Experience with ASE: First Two Weeks
