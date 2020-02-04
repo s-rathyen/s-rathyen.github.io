@@ -7,7 +7,7 @@ date: 2020-01-23
 labels:
   - javascript
 ---
-## My Experience as a JS Newbie
+## My Experience as a Javascript Newbie
 <img class="ui small right floated image" src="../images/athlete.png">
 I'm a complete newbie to Javascript. I'm also a bit rusty because I haven't used a proper programming language for at least a semester since I devoted most of my energy to an algorithms course last semester. Luckily, JS is intuitive enough that you can get through all the basics in less than ten hours. I think this is thanks to the fact that it shares a lot of common elements with the basics of other common programming languages (I know Java, C, and C++).
 
