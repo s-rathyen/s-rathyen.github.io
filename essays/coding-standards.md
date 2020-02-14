@@ -19,7 +19,7 @@ Using ESLint with IntelliJ solves this kind of problem. One of the major advanta
 However, ESLint has other (and perhaps greater) advantages. It ensures that you adhere to proper coding standards, which means proper spacing, indentation, variable types, and more. Although this may seem unnecessary at first (why change your spacing and indentation if your code runs fine?) it has numerous advantages. The most major advantages, in my opinion, are improving your code's readability and efficiency.
 
 ## Readability
-<img class="ui small right floated image" src="../images/readability.jpg">
+<img class="ui small left floated image" src="../images/readability.jpg">
 ESLint ensures my code (and that of anyone else using it) is universally readable and adheres to a coding standard. This is imperative if I ask someone else to debug my code. Everyone has a different coding style, but that means it is more difficult for one person to read another person's code, and therefore things like collaboration and debugging take longer than they should. ESLint will take two different coding styles and ensure that they are mutually readable; they will have the same spacing and indentation so there is no ambiguity. While it might seem obvious that handing someone an "unreadable" piece of code to debug is rude, "unreadable" is subjective. ESLint takes away the subjectivity and makes sure all code is readable. Thus, once I learn the coding standard of ESLint, if someone else using ESLint asks me to debug their code, I don't have to stress about navigating a code with confusing spacing.
 
 ## Efficiency
