@@ -9,6 +9,7 @@ labels:
   - javascript
 ---
 ## Introduction
+<img class="ui small right floated image" src="../images/eslint.png">
 ESLint is a tool for Javascript which detects deviations from coding standards. We have been using it in my software engineering class as a plugin for IntelliJ, an IDE for Javascript. Using ESLint with IntelliJ, although frustrating at first, is becoming a fast way to cement my Javascript skills by teaching me to use best practice coding standards.
 
 I mentioned in a previous essay (Unlikely Origins) that I started coding (for the most part) on Myspace and pet sites. This means that I was coding HTML and CSS in a small textbox which I had to constantly update to check my progress. If something was wrong with what I had written, I wouldn't figure it out until I reloaded the target page and found the whole layout ruined.
