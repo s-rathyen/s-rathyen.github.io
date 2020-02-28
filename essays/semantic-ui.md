@@ -10,25 +10,25 @@ labels:
 ---
 
 ## Introduction
-<img class="ui small right floated image" src="../images/fw5.png">
+<img class="ui tiny right floated image" src="../images/fw5.png">
 This week, in my Software Development class, we worked through a module on UI Frameworks. Specifically, we learned how to use Semantic UI (or at least some of it -- there's a lot to know). I'd never heard of UI Frameworks before, so I was intimidated by the module, especially the assignment that required us to watch 3-4 hours of tutorials on Semantic UI. However, I'm a sucker for UI! I enjoy making aesthetically pleasing, easily navigable webpages. As I mentioned in a previous essay, I have some experience with CSS/HTML, but it's mostly limited to absolute positioning over a very large background image I created in Photoshop to place text, hovers, and dropdown tabs where I wanted them to go.
 
 ## Semantic UI: The Learning Process
 As you might guess from the mention of the 3-4 hours of tutorials, learning a UI Framework requires a significant upfront investment of time, and with that investment you'll only scratch the surface of proficiency with Semantic UI. But it's a very wise investment: knowing Semantic UI, or another UI Framework, will vastly improve your efficiency in building webpages using an intuitive, minimalistic approach to HTML.
 
 ## The Old Way
-<img class="ui small left floated image" src="../images/fw2.png">
+<img class="ui left floated image" src="../images/fw2.png">
 As I mentioned, my experience with HTML/CSS is extremely painstaking. In the past, it has taken me hours to construct a webpage using absolute positioning and a lot of redundant code. I would tweak the location of textboxes pixel by pixel by refreshing the target page over and over. It was truly an agonizing way to work, but that's not the only issue. I became so accustomed to coding in this archaic way that I was underconfident in my abilities to create design elements using HTML so I relied on graphics in Photoshop to do the work. All in all, to create a webpage like the one pictured, it would take me approximately 6 hours: 4 for the background graphic, tweaked to "perfection," and another 2 for using CSS to position elements on the right place. Something I realize now that is a grave mistake for the resulting webpage is that it was not mobile responsive! This is one of the most valuable things about Semantic UI, as I'll elaborate on later.
 
 ## The New Way
 Using Semantic UI over the past week has really opened my eyes to the power of UI Frameworks. Semantic UI has cut the time it takes me to create a gorgeous, clean layout exponentially. It has also made the entire process much more enjoyable with its intuitive 'natural language' feature.
 
-<img class="ui small right floated image" src="../images/fw1.png">
+<img class="ui right floated image" src="../images/fw1.png">
 What at first seemed like a large investment of time to learn about the various components, views, and collections in Semantic UI actually pales in comparison to the time I'll save using Semantic UI to create a webpage instead of my old process. Now, instead of taking six hours for one page, I can (for example) create a clean, aesthetically pleasing mockup of a company's homepage in twenty three minutes for an in class exercise (pictured right). Furthermore, the confidence I've gained from being able to create a professional-looking site instead of spending hours making a giant background image in Photoshop is invaluable.
 
 ## Moving Forward
 
-<img class="ui small left floated image" src="../images/fw3.png">
+<img class="ui left floated image" src="../images/fw3.png">
 For another assignment, we were instructed to mimic a homepage of our choosing. I chose to create Bauer's homepage and was astounded to see how closely I could recreate it in just a couple hours! While brainstorming websites to recreate, I also considered mimicking the homepage of my boyfriend's dad's surboard shaping business (I decided on Bauer instead because it was more complex -- apparently I am a glutton for punishment?). But after seeing how easy it was to recreate Bauer's page, I'm excited to undertake a new project, and hope to revisit my boyfriend's dad's homepage in the future. What is so exciting about Semantic UI is that you can look at a multitude of different homepage for major companies and say, hey, I could recreate that in a couple hours! It's an exciting, empowering feeling -- like unlocking some secret.
 
 ## Standout Features
