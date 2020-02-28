@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: TBA
+title: Making Frameworks Work For You
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
-  - semantic-ui
+  - semantic ui
+  - ui frameworks
 ---
 
 ## Introduction
@@ -15,18 +16,26 @@ This week, in my Software Development class, we worked through a module on UI Fr
 ## Semantic UI: The Learning Process
 As you might guess from the mention of the 3-4 hours of tutorials, learning a UI Framework requires a significant upfront investment of time, and with that investment you'll only scratch the surface of proficiency with Semantic UI. But it's a very wise investment: knowing Semantic UI, or another UI Framework, will vastly improve your efficiency in building webpages using an intuitive, minimalistic approach to HTML.
 
-## 
+## The Old Way
+As I mentioned, my experience with HTML/CSS is extremely painstaking. In the past, it has taken me hours to construct a webpage using absolute positioning and a lot of redundant code. I would tweak the location of textboxes pixel by pixel by refreshing the target page over and over. It was truly an agonizing way to work, but that's not the only issue. I became so accustomed to coding in this archaic way that I was underconfident in my abilities to create design elements using HTML so I relied on graphics in Photoshop to do the work. All in all, to create a webpage like the one pictured, it would take me approximately 6 hours: 4 for the background graphic, tweaked to "perfection," and another 2 for using CSS to position elements on the right place. Something I realize now that is a grave mistake for the resulting webpage is that it was not mobile responsive! This is one of the most valuable things about Semantic UI, as I'll elaborate on later.
 
-## Then Vs. Now
-As I mentioned, my experience with HTML/CSS is extremely painstaking. It took me hours to construct a webpage using absolute positioning and a lot of redundant code. The overwhelming benefit to Semantic UI is that it will cut the time it takes you to create a single webpage exponentially. What's amazing about Semantic UI is that it has a 'natural language' feature
+## The New Way
+Using Semantic UI over the past week has really opened my eyes to the power of UI Frameworks. Semantic UI has cut the time it takes me to create a gorgeous, clean layout exponentially. It has also made the entire process much more enjoyable with its intuitive 'natural language' feature.
 
-Overall, what seems like a long time invested to learn about Semantic UI and all the various collections, components, and modules it has to offer pales in comparison to the time you'll save using Semantic UI to create a webpage. I've gone from taking hours to create a boring webpage that relied on photoshop graphic and absolute CSS positioning to look pretty, to taking twenty three minutes to create a clean, aesthetically pleasing mockup of a website's homepage during an in class exercise. What's even better is that I didn't have to spend three hours in photoshop making a "pretty" layout to come out the other side with a professional, gorgeous display.
+What at first seemed like a large investment of time to learn about the various components, views, and collections in Semantic UI actually pales in comparison to the time I'll save using Semantic UI to create a webpage instead of my old process. Now, instead of taking six hours for one page, I can (for example) create a clean, aesthetically pleasing mockup of a company's homepage in twenty three minutes for an in class exercise (pictured right). Furthermore, the confidence I've gained from being able to create a professional-looking site instead of spending hours making a giant background image in Photoshop is invaluable.
 
-## Looking Forward
-For an assignment, we were also instructed to recreate a webpage of our choosing. I chose to recreate Bauer, a hockey website, at my boyfriend's suggestion, and was surprised to see how closely I could mimic it in just a couple hours. While brainstorming websites to recreate, I also considered mimicking a page for my boyfriend's dad's surfboard company (he's a surfboard shaper), but decided to use Bauer's page instead, since it was more complex (why do I do such things to myself?). What's most exciting about Semantic UI is that I can look at almost any homepage now and say, hey, I could recreate that in a couple hours! I jokingly told my boyfriend that I would be able to rebuild his dad's site once I finished this class thanks to UI Frameworks.
+## Moving Forward
 
-Even more amazingly, Semantic UI makes mobile responsiveness amazingly simple. For example, if using a menu for your page's layout, you can add in a single word to the div class, "stackable," and it will make it stack at mobile breakpoints. This feature amazed me when I learned about it! Mobile responsiveness is becoming increasingly necessary as more people access the internet from their phones, and this makes it so much easier for programmers to deliver a mobile friendly result.
+For another assignment, we were instructed to mimic a homepage of our choosing. I chose to create Bauer's homepage and was astounded to see how closely I could recreate it in just a couple hours! While brainstorming websites to recreate, I also considered mimicking the homepage of my boyfriend's dad's surboard shaping business (I decided on Bauer instead because it was more complex -- apparently I am a glutton for punishment?). But after seeing how easy it was to recreate Bauer's page, I'm excited to undertake a new project, and hope to revisit my boyfriend's dad's homepage in the future. What is so exciting about Semantic UI is that you can look at a multitude of different homepage for major companies and say, hey, I could recreate that in a couple hours! It's an exciting, empowering feeling -- like unlocking some secret.
 
-The same ease of use goes for many other features: for example, if you wanted to create a black menu with white text, instead of creating multiple lines in your CSS to change the background and font color in a menu, you can add in a single word to your menu div class, "inverted," which will do all of that automatically.  
+## Standout Features
+
+Semantic UI has so many amazing features that make web development a breeze, but I'll focus on some of my favorites below.
+
+### Mobile Responsiveness
+Semantic UI makes mobile responsiveness amazingly simple. By simple I mean adding a single word to your div class. For example, if you're building a menu for your homepage, and you want to make the menu mobile-friendly, you simple add "stackable" to the div class, and the menu stacks at mobile breakpoints. This amazed me. As more people access the internet from their mobile devices, it's becoming increasingly important to make sites mobile friendly, and this feature of Semantic UI makes it simple.
+
+### Ease of Use
+The same ease of use goes for many other features. Semantic UI is remarkably efficient, and actually makes sense when you read it. For example, if you want to create a black menu with white text instead of the default white menu, Semantic UI is there to save the day. You have options: you could do it the hard way, which entails adding multiple lines to your CSS: the selector, the background color, and the text color. But it would be smarter to do it the easy way: simply add "inverted" to your menu div class and it changes the background and text color of your menu. You also might notice that the inverted black elements are not a flat black, but rather a very dark grey, which elevates the design of your site.
 
 I truly believe UI Frameworks is a game changer. I'm excited to use it in the future to create gorgeous websites with much more intuitive HTML and CSS than I have made previously. 
