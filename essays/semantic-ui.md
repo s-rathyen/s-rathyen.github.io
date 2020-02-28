@@ -5,8 +5,8 @@ title: Making Frameworks Work For You
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
-  - semantic-ui
-  - ui-frameworks
+  - semantic ui
+  - ui frameworks
   - css
   - html
 ---
