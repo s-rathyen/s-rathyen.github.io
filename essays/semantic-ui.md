@@ -9,6 +9,7 @@ labels:
 ---
 
 ## Introduction
+<img class="ui small right floated image" src="../images/athlete.png">
 This week, in my Software Development class, we worked through a module on UI Frameworks. Specifically, we learned how to use Semantic UI (or at least some of it -- there's a lot to know). I'd never heard of UI Frameworks before, so I was intimidated by the module, especially the assignment that required us to watch 3-4 hours of tutorials on Semantic UI. However, I'm a sucker for UI! I enjoy making aesthetically pleasing, easily navigable webpages. As I mentioned in a previous essay, I have some experience with CSS/HTML, but it's mostly limited to absolute positioning over a very large background image I created in Photoshop to place text, hovers, and dropdown tabs where I wanted them to go.
 
 ## Semantic UI: The Learning Process
