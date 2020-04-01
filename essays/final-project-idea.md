@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea: Fitness Finder"
+title: "Final Project Idea: Fitness Finder/Gym Genius"
 date: 2020-03-31
 labels:
   - Software Engineering
   - Meteor
 ---
-# Project: Fitness Finder / Gym Genius
 <img class="ui small right floated image" src="../images/athlete.png" alt="athlete">
 ## Overview
 <i>The problem:</i> The freshman fifteen! So many students enter and go through college feeling too ashamed to go to the gym alone or feeling afraid to go on a run alone because of safety concerns.<br/><br/>
