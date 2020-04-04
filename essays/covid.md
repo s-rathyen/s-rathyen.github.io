@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: COVID-19: Living in Limbo
+title: "COVID-19: Living in Limbo"
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-03
 labels:
   - college
   - personal
 ---
+
 ## Introduction
 We’re living in an unprecedented situation. I often bottle my feelings up when it comes to things like this—especially things that pose a much greater risk to people other than myself—but hopefully getting some of my thoughts down will serve as a sort of catharsis.
 
