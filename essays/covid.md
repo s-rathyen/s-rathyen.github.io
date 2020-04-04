@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: COVID-19: Living in Limbo
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-04-03
 labels:
   - college
   - personal
