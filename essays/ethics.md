@@ -8,14 +8,14 @@ labels:
   - ethics
 ---
 ## (Software) Engineering Ethics
-Since software engineering is a relatively new field with what seems like comparatively little impact on life, it’s easy to dismiss the ethical obligation that software engineers have. But our society becomes more reliant upon technology with each passing day, and with this upward trend grows also the need for ethically trained software engineers. 
+<img class="ui small right floated image" src="../images/ethics.jpeg">Since software engineering is a relatively new field with what seems like comparatively little impact on life, it’s easy to dismiss the ethical obligation that software engineers have. But our society becomes more reliant upon technology with each passing day, and with this upward trend grows also the need for ethically trained software engineers. 
 
 Some of the more pressing issues that come to mind when I think of ethics and computers are self-driving cars and voice technology. For the former, cars are dangerous to begin with—they’re hunks of metal which weigh thousands of pounds and can kill in an instant. For the latter, voice technology is always on in some households and it makes one wonder how much data is gathered. For topics like these, and countless others, ethics is vital in the curriculum of prospective software engineers.
 
 So what are ethics for software engineers? There are a technical set of guidelines at the <a href="https://www.acm.org/code-of-ethics">ACM Code of Ethics</a> and the <a href="https://www.computer.org/education/code-of-ethics">Software Engineering Code of Ethics</a>, but I have my own “gut feeling”-based definition of ethics. To me, ethics has to do with ensuring the safety of the most vulnerable stakeholders. There will always be more influential stakeholders (e.g. managers, company owners) who might try to undermine the needs of the more vulnerable, and this can pose an ethical dilemma.
 
 ## Case Study: The code I’m still ashamed of
-<a href="https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/#.tsjl7lkxy">This article</a> presented me with one of my worst fears. The prospect of inadvertently or ignorantly evaluating a situation such that I become responsible for the injury or death of someone terrifies me. In the case of this article, a software engineer was hired to build a website which promoted the use of a drug through questionable practices and led to the deaths of many young girls. 
+<img class="ui small left floated image" src="../images/code.jpeg"><a href="https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/#.tsjl7lkxy">This article</a> presented me with one of my worst fears. The prospect of inadvertently or ignorantly evaluating a situation such that I become responsible for the injury or death of someone terrifies me. In the case of this article, a software engineer was hired to build a website which promoted the use of a drug through questionable practices and led to the deaths of many young girls. 
 
 It is easy to argue that the engineer was less culpable for the deaths of these girls than the company who produced the drug and hired him, but when it comes to death, what does it matter if one plays a large or small role? Any role at all is unacceptable.
 
