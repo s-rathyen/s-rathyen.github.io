@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Ethics
+title: Ethical Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
   - ethics
 ---
-## (Software) Engineering Ethics
+## What are ethics in software?
 <img class="ui small right floated image" src="../images/ethics.jpeg">Since software engineering is a relatively new field with what seems like comparatively little impact on life, it’s easy to dismiss the ethical obligation that software engineers have. But our society becomes more reliant upon technology with each passing day, and with this upward trend grows also the need for ethically trained software engineers. 
 
 Some of the more pressing issues that come to mind when I think of ethics and computers are self-driving cars and voice technology. For the former, cars are dangerous to begin with—they’re hunks of metal which weigh thousands of pounds and can kill in an instant. For the latter, voice technology is always on in some households and it makes one wonder how much data is gathered. For topics like these, and countless others, ethics is vital in the curriculum of prospective software engineers.
@@ -24,4 +24,4 @@ In this case, the author of the article was just too young or ignorant to realiz
 I am happy that the author chose to resign from the company. Although it is upsetting that he didn’t stop what he was doing in the first place, he didn’t know what he was doing. But this just shows the importance of training students of software engineering in ethics before releasing them into the job market, so they can’t be so easily manipulated by large corporations who take advantage of both their customers and their employees. 
 
 ## The code I will never be ashamed of
-I hope that, if I encounter a similar dilemma in the future, I will be able to recognize the ethical dilemma I am in. I promise myself to never pursue money over morals and to do what is in everyone’s best interest. I never want to look back and remember that I may have been privy to the physical/emotional injury or death of stakeholders. Instead, I want to be proud of the code that I write, in that it is not only innovative, but undoubtedly ethical.
+<img class="ui small right floated image" src="../images/ethics2.jpeg">I hope that, if I encounter a similar dilemma in the future, I will be able to recognize the ethical dilemma I am in. I promise myself to never pursue money over morals and to do what is in everyone’s best interest. I never want to look back and remember that I may have been privy to the physical/emotional injury or death of stakeholders. Instead, I want to be proud of the code that I write, in that it is not only innovative, but undoubtedly ethical.
