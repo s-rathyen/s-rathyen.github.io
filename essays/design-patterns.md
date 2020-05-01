@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: UFOs, Cryptids, and... Design Patterns?
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-30
+date: 2020-04-30
 labels:
   - javascript
   - meteor
