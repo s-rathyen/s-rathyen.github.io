@@ -16,7 +16,7 @@ In ICS 314 this semester, we learned a lot about Software Engineering fundamenta
 
 ## Agile Project Management
 <img class="ui small left floated image" src="../images/agile.png">
-APM makes large projects easy to handle by breaking them into small pieces. For our Final Project in ICS 314, our groups used IDPM (Issue Driven Project Management), a type of APM. IDPM organizes group web application development using the following guidelines:
+APM is a method that makes large projects easy to handle by breaking them into small pieces. For our Final Project in ICS 314, our groups used IDPM (Issue Driven Project Management), a type of APM. IDPM organizes group web application development using the following guidelines:
  * Meet 2x/week to discuss and manage project
 * Break work up into 72 hour tasks
 * Create a GitHub issue for each task
@@ -31,7 +31,7 @@ Overall, I took away great time management and organization skills from the APM 
 
 
 ## User Interface Frameworks
-To make an aesthetically appealing website, we had to learn about UI Frameworks before diving into APM. We used Semantic UI, a framework which uses “human-friendly HTML” to create visually pleasing layouts. 
+To make an aesthetically appealing website, we had to learn about UI Frameworks before diving into APM. We used Semantic UI, a framework which uses “human-friendly HTML” to create visually pleasing layouts. A framework is like a library, which contains code that you can re-use.
 
 <img class="ui small right floated image" src="../images/semantic.png">
 Since my knowledge of HTML and CSS was accrued over years of “self-teaching” and poking about on websites I didn’t really understand to create abominations out of raw HTML and CSS, Semantic UI was like a dream come true. It was so easy and fast to learn. One of our first assignments was to replicate the home page of a site of our choice. It took me only a few hours to create something nearly identical to the one I chose. Now, when I see most retail websites, I wonder if they were created using Semantic UI - they all look so similar (albeit nice)! 
