@@ -77,7 +77,8 @@
       "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "3.95",
-      "courses": [
+      "courses": [ "Intro to Computer Science I", "Intro to Computer Science II", "Program Structure", "Discrete Mathematics I",
+        "Discrete Mathematics II", "Software Engineering I", "Russian 101", "Russian 102", "Russian 201", "Russian 202"
       ]
     }
   ],
