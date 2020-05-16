@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Introduction
-We’re living in an unprecedented situation. I often bottle my feelings up when it comes to things like this, especially because others are
+<img class="ui small left floated image" src="../images/covid.jpg" alt="virus"/>We’re living in an unprecedented situation. I often bottle my feelings up when it comes to things like this, especially because others are
 at greater risk than I am, but hopefully getting some of my thoughts down will serve as a sort of catharsis.
 
 I can’t say that the transition the past few weeks hasn’t been difficult. My previous routine ceased to exist, so I
