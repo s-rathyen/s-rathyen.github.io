@@ -53,7 +53,9 @@
         "C++",
         "Java",
         "Javascript",
-        "Basic HTML/CSS"
+        "Basic HTML/CSS",
+        "Semantic UI",
+        "React"
       ]
     },
     {
@@ -61,6 +63,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "IntelliJ",
         "GitHub"
       ]
     }
@@ -68,8 +71,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
-      "studyType": "B.S.",
+      "area": "Computer Science & Russian (expected Fall, 2022)",
+      "studyType": "(ICS) B.S., (Russian) B.A.",
       "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "3.95",
@@ -131,8 +134,14 @@
   ],
   "awards": [
     {
+      "title": "Dean's List",
+      "date": "2018-2019",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Given to students who earn a semester GPA of 3.5 or higher with 12 credits or more."
+    },
+    {
       "title": "Regent's Scholarship",
-      "date": "2018-Present",
+      "date": "2016-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "A full tuition scholarship granted to students demonstrating outstanding academic achievement"
     },
