@@ -26,6 +26,7 @@ includes:
 * Users can comment on each other's profiles to connect and plan workouts
 * Users can schedule workouts using the 'events' tab; the events are organized into past/future
 * Users can join events that their friends have created
+
 Our site facilitates making fitness connections so students can have a gym buddy, running partner, or friend to
 help them stay on track and achieve their fitness goals.
 
