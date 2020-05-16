@@ -13,7 +13,7 @@ labels:
 <img class="ui small left floated image" src="../images/covid.jpg" alt="virus"/>We’re living in an unprecedented situation. I often bottle my feelings up when it comes to things like this, especially because others are
 at greater risk than I am, but hopefully getting some of my thoughts down will serve as a sort of catharsis.
 
-I can’t say that the transition the past few weeks hasn’t been difficult. My previous routine ceased to exist, so I
+The transition the past few weeks has been difficult. My previous routine ceased to exist, so I
  had to create a new one and ensure that I stick to it. Swirling around it all is an impending sense of doom that gnaws at me every day.
 
 ## When did time stop existing?
@@ -26,7 +26,7 @@ Granted, I’ve had to make a lot of changes. I’m a creature of habit; I enjoy
 That being said, these past few weeks have passed mostly without incident, save for some minor health scares (for any of us, even the tiniest cough evokes suspicion). It’s been comforting and even fun to be here at my boyfriend’s house. It feels a bit like summer break (albeit bleaker), where the days pick up speed as more pass. They bring us forward whether we want to go or not. For this I am grateful. If given the chance, I would shelter in this moment, the here and now, because I know things must get worse before they get better. But none of the days pass without emotional turmoil.
 
 ## So one hypochondriac and one deadly pandemic walk into a bar...
-<img class="ui small left floated image" src="../images/health.png" alt="health"/>I tend to catastrophize everything about my health. If my side hurts, my kidneys must be shutting down. If I have chest tightness, I must have pneumonia which will turn fatal and kill me. It feels like a terrible thing to admit when there are people dying all over the world. Here I am, healthy, normal, sitting on a comfortable bed sweating over the fact that I must have some life threatening disease because I had a slight pain in my stomach. It’s that fleeting dread that makes the days so much grayer.
+<img class="ui small left floated image" src="../images/health.png" alt="health"/>I tend to exaggerate everything about my health. If my side hurts, my kidneys must be shutting down. If I have chest tightness, I must have pneumonia which will turn fatal and kill me. It feels like a terrible thing to admit when there are people dying all over the world. Here I am, healthy, normal, sitting on a comfortable bed sweating over the fact that I must have some life threatening disease because I had a slight pain in my stomach. It’s that fleeting dread that makes the days so much grayer.
 
 What’s worse than worrying about myself is worrying about my family. About the very young and the very old whom I love. My grandmother is immune compromised, and this terrifies me. But I have to let that terror go. The best I can do is remember that we are all taking extreme precaution and that is the best protection we have.
 
