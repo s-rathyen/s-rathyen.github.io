@@ -12,7 +12,7 @@ labels:
 ---
 ## SE & Beyond
 <img class="ui small right floated image" src="../images/se.jpeg">
-In ICS 314 this semester, we learned a lot about Software Engineering fundamentals. Some things were easy to grasp (the importance of Coding Standards will forever be stuck in my head) and some weren’t (Design Patterns will haunt me forever), but I always took away something valuable. My favorite modules were Agile Project Management and User Interface Frameworks. I feel that these are the modules which will really shape how I move forward as a Software Engineer. Using both Agile Project Management and User Interface Frameworks showed me ways to be more efficient, skills I can use beyond web app development.
+In ICS 314 this semester, we learned a lot about Software Engineering fundamentals. Some things were easy to grasp (the importance of Coding Standards will forever be stuck in my head) and some were not (Design Patterns will haunt me forever), but I always took away something valuable. My favorite modules were Agile Project Management and User Interface Frameworks. I feel that these are the modules which will really shape how I move forward as a Software Engineer. Using both Agile Project Management and User Interface Frameworks showed me ways to be more efficient, skills I can use beyond web app development.
 
 ## Agile Project Management
 <img class="ui small left floated image" src="../images/agile.png">
