@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mff-logo.png
 title: Manoa Fitness Finder
-permalink: projects/witch-hunt
+permalink: projects/mff
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-13
 labels:
@@ -13,9 +13,9 @@ labels:
   - meteor
 summary: Group web application built with Semantic UI React/Meteor.
 ---
-<a href="https://manoafitnessfinder.github.io/"><i class="large github icon"></i>MFF Project Page</a>
+<a href="https://manoafitnessfinder.github.io/"><i class="large github icon"></i>View the MFF Project Page</a>
 
-<a href="https://github.com/manoafitnessfinder/app"><i class="large github icon"></i>MFF Repository @ GitHub</a>
+<a href="https://github.com/manoafitnessfinder/app"><i class="large github icon"></i>View the MFF Repository</a>
 
 ## Manoa Fitness Finder: Overview
 <img class="ui medium right floated rounded image" src="../images/mff-home.png">
