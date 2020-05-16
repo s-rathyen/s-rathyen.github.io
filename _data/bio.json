@@ -64,7 +64,8 @@
       "keywords": [
         "MacOS",
         "IntelliJ",
-        "GitHub"
+        "GitHub",
+        "Eclipse IDE"
       ]
     }
   ],
@@ -104,6 +105,17 @@
         "Work with a specialized computer system to seat guests from a waitlist of up to 100+ names",
         "Led a group of 3-6 hosts during busiest hours and days"
       ]
+    },
+    {
+      "company": "Kumon",
+      "position": "Tutor",
+      "website": "",
+      "startDate": "Jan 2016",
+      "endDate": "Aug 2016",
+      "summary": "Worked as a tutor for elementary school students",
+      "highlights": [
+        "Adapted to communicate effectively with students facing varying challenges"
+      ]
     }
   ],
   "volunteer": [
@@ -137,7 +149,7 @@
       "title": "Dean's List",
       "date": "2018-2019",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Given to students who earn a semester GPA of 3.5 or higher with 12 credits or more."
+      "summary": "Students must earn a semester GPA of 3.5 or higher with 12 credits or more."
     },
     {
       "title": "Regent's Scholarship",
